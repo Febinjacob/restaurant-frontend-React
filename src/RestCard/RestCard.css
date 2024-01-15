@@ -1,0 +1,14 @@
+/* .card{
+    height:600px ;
+    border: 4px ridge rgb(66, 64, 64);
+    border-radius: 10px;
+}
+.img{
+    height: 400px;
+    border-radius: 1rem;
+    transition: transform 0.3s ease;
+}
+.img:hover{
+    transform: scale(1.2);
+    border-radius: none;
+} */
